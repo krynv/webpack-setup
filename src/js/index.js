@@ -1,4 +1,5 @@
 import sum from './calculation';
+import '../css/style.css';
 
 console.log(sum(2, 5));
 
