@@ -1,4 +1,4 @@
-import sum from './calculation.js';
+import sum from './calculation';
 
 console.log(sum(2, 5));
 
